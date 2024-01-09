@@ -1,0 +1,40 @@
+@font-face {
+    font-family: mostrad;
+    src: url("/fonts/Montserrat-VariableFont_wght.ttf");
+}
+.zagol_1 {
+    color: blue;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 1px #000000;
+}
+.zagol_2 {
+color: coral;
+font-size: 25px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-decoration: dotted;
+}
+.zagol_3 {
+color: chartreuse;
+font-size:56px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-decoration: solid;
+}
+.zagol_4 {
+color: cyan;
+font-size:42px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: wavy;
+}
+.zagol_5 {
+color: brown;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+}
+.zagol_6 {
+color: blueviolet;
+font-size: xx-large;
+font-family: mostrad;
+font-style: inherit;
+}
